@@ -36,6 +36,14 @@ O projeto foi concebido e implementado com foco na construção da interface, es
 - Encaminhamento operacional para o fluxo de atendimento comercial
 - Implementação em stack web moderna
 
+## Stack, Integrações e Deploy
+- Aplicação construída em stack web moderna para aquisição, qualificação e continuidade comercial
+- Estrutura funcional orientada à jornada, ao formulário e ao handoff de lead
+- Fluxo de envio automático por e-mail para continuidade operacional do contacto
+- Arquitetura preparada para evolução de automações e integrações comerciais
+- Publicação em ambiente web para utilização em contexto real
+- Deploy realizado na Vercel
+
 ## Valor do Projeto
 Este projeto demonstra a capacidade de transformar uma necessidade comercial em uma aplicação web funcional, conectando experiência do utilizador, clareza de proposta, qualificação de lead e continuidade operacional. O valor da solução está menos em “ser uma landing page” e mais em estruturar uma etapa real do fluxo de aquisição.
 
